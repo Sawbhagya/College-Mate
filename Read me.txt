@@ -1,0 +1,15 @@
+*********************************COLLAGE MATE**********************************
+***********************************Group 3*************************************
+
+
+Copy and paste the Database Folder into C: drive. 
+(File Location:C:\)
+
+Student Login 
+Username : 2018/ICT/25 Password :123
+Username : 2018/ICT/23 Password :321
+
+Admin Login
+Username : Admin Password :Admin
+
+*******************************************************************************

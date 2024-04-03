@@ -1,0 +1,86 @@
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\CollegeMate.exe.config
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\CollegeMate.exe
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\CollegeMate.pdb
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.csprojResolveAssemblyReference.cache
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.BlankUserControl.resources
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.Form1.resources
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.Properties.Resources.resources
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.csproj.GenerateResource.Cache
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.exe
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.pdb
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.UserControlDays.resources
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.NewEvent.resources
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.SubmitPage.resources
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.LoginPage.resources
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.DayEvents.resources
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\MySql.Data.DLL
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\MySql.Web.dll
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\Google.Protobuf.dll
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\BouncyCastle.Crypto.dll
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\ZstdNet.dll
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\Ubiety.Dns.Core.dll
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\System.Buffers.dll
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\K4os.Compression.LZ4.dll
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\K4os.Hash.xxHash.dll
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\bin\Debug\MySql.Web.xml
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.csproj.CollegeMate.exe.config
+D:\Studies Google Drive\Level 2\1st Semester\IT2122 SE T\CollegeMate\CollegeMate\obj\Debug\CollegeMate.DayEvent.resources
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\bin\Debug\CollegeMate.exe.config
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.exe
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.pdb
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\bin\Debug\CollegeMate.exe
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\bin\Debug\CollegeMate.pdb
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\bin\Debug\MySql.Web.xml
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.BlankUserControl.resources
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.DayEvent.resources
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.DayEvents.resources
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.Form1.resources
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.LoginPage.resources
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.NewEvent.resources
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.Properties.Resources.resources
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.SubmitPage.resources
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.UserControlDays.resources
+C:\Users\Asus\Desktop\New folder (8)\CollegeMate\CollegeMate\obj\Debug\CollegeMate.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\College Mate\CollegeMate\CollegeMate\bin\Debug\CollegeMate.exe.config
+C:\Users\Asus\Desktop\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.exe
+C:\Users\Asus\Desktop\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.pdb
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\CollegeMate.exe.config
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.exe
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.pdb
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\CollegeMate.exe
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\CollegeMate.pdb
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\MySql.Data.DLL
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\MySql.Web.dll
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\Google.Protobuf.dll
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\BouncyCastle.Crypto.dll
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\ZstdNet.dll
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\Ubiety.Dns.Core.dll
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\System.Buffers.dll
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\K4os.Compression.LZ4.dll
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\K4os.Hash.xxHash.dll
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\MySql.Web.xml
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.csprojResolveAssemblyReference.cache
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.csproj.CollegeMate.exe.config
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.BlankUserControl.resources
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.DayEvent.resources
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.DayEvents.resources
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.Form1.resources
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.LoginPage.resources
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.NewEvent.resources
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.Properties.Resources.resources
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.SubmitPage.resources
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.UserControlDays.resources
+D:\Studies Google Drive\Level 2\1st Semester\College Mate\CollegeMate\CollegeMate\obj\Debug\CollegeMate.csproj.GenerateResource.Cache
